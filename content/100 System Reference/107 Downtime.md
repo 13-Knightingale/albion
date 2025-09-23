@@ -29,6 +29,8 @@ find supplies themselves (not pay for them)
 
 Venue, Time, Tools, Recipe + ??? for prof dice
 
+crafting using debris and scrap (i.e. poor supplies) is DISADV, qualities supplies is ADV
+
 & Tools
 & Item Harvesting/Quality
 ## Crafting Styles

@@ -24,6 +24,10 @@ If they hit, they do one damage.
 They may trigger a stunt
 
 unarmed combat = no prof dice
+
+RANGED ATTACK (thrown, range, hitting groups, ammo usage + improvised)
+making ranged attack into same spacE (close range disadvantage?)
+how do we use ammo, when does it deplete?
 ## Damage Types
 ???
 ## Conditions
@@ -38,3 +42,11 @@ NPCs in combat will have a morale score, this is effectively a defence, used whe
 BASE MORALE = ALL SIX ABILTIES ADDED TOGETHER? (maybe not)
 ## Movement
 ???
+
+#### Range Bands
+There are three 'ranges' for weapons, spells, abilities, etc.:
+- Close: Current zone. Swords.
+- Short: One adjacent zone. Throwing.
+- Long: Any zone within line of sight. Bows.
+
+Line of Sight

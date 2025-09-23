@@ -3,8 +3,6 @@ The overall state of a PC is manifested through three values:
 
 - **Health** Points (*HP*) represent how many blows, grazes and near misses a PC can sustain before suffering serious injury or mortal wounds. Each time a PC would suffer damage, normally due to an attack, they lose HP (*based on the ferocity of the assault*). 
 
-  > [!warning|noicon] If a PC reaches 0 HP and receives any further damage, they suffer exhaustion instead (*equal to the damage dealt*). All other effects are applied as normal.
-
 - **Stamina** Points (*SP*) represent the energy of a PC, and the frequency with which they can exert themselves or attempt flourishes during their actions. A PC must spend SP (*based on the action taken*) to perform manoeuvres and utilise weapon masteries.
 <br />
 - **Mana** Points (*MP*) represent a PC's connection to the mystical, and their ability to draw from it to shape reality. Each time a PC would cast a spell, or activate another form of magical power, they must spend MP to do so (*based on the potency of the spell*).
@@ -77,6 +75,8 @@ When resting, if the PCs choose to spend a long (*or little*) time taking the re
 |      20mins      |     45mins      |     90mins      |      3hrs       |       6hrs       |      12hrs       |       24hrs       |
 ## Exhaustion
 A PC may acquire exhaustion in many ways. Most notably whilst travelling, after performing arduous tasks, or when they are near death during combat.
+
+  > [!warning|noicon] If a PC reaches 0 HP and receives any further damage, they suffer exhaustion instead (*equal to the damage dealt*). All other effects are applied as normal.
 
 For each rank of exhaustion they have, a PC reduces all of their d20 results by one before the result of a roll is determined (*critical boons and banes occur prior to this reduction*).
 

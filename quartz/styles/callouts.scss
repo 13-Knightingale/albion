@@ -167,4 +167,9 @@
   .callout-title-inner {
     font-weight: $semiBoldWeight;
   }
+
+  /* Remove Icon from Callout boxes */
+  .callout:is([data-callout-metadata^="noicon"]) .callout-icon {
+    display: none;
+  }
 }

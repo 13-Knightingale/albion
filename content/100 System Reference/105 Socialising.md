@@ -94,3 +94,5 @@ All PCs (*& NPCs*) have a shared set of knowledge, representing a collective awa
 - Famous Figures (*i.e. Ruling Monarchs, Religious Leaders, Acclaimed Heroes*)
 
 > [!tip|noicon] This list of general knowledge topics is not exclusive. Other topics may be added by the DM if they feel it is something most NPCs in their world would know.
+
+COMMUNITIES!
