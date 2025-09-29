@@ -2,8 +2,6 @@
 A d20 check is required when a PC chooses to take an action and:
 
 - the overall outcome of that action is uncertain
-<br />
-
 - the PC is able to meaningfully influence that outcome
 - there are consequences for failing to achieve that outcome
 
@@ -13,8 +11,6 @@ To perform a d20 check (*often simply referred to as 'a check'*):
 
 1. The DM determines what the [[101 D20 Mechanics#Target Number (TN)|target number]] (*TN*) for the check will be.
    *The DM does not necessarily need to reveal it at this stage*
-<br />
-
 2. The DM and PC determine which [[101 D20 Mechanics#Proficiency Dice|proficiency die]] to roll, based on factors such as the action chosen, desired outcome and the approach taken to manifest it.
 3. The PC (*or any of their allies*) may spend their inspiration to grant themselves [[101 D20 Mechanics#Advantage & Disadvantage|advantage]] on the check (*they may spend more than one if desired*).
 4. Finally, the PC may activate powers, utilise equipment or trigger other effects that cause fundamental alterations to their check (*i.e. increasing the rank of their proficiency die*).
@@ -64,14 +60,13 @@ A ***group*** check occurs when many PCs can take part in the same action, at th
 $$
 d20 + SUM[Proficiency] => TN
 $$
-<br />
 
 A ***supported*** check occurs when only one PC is able to take the action, but other PCs may take secondary actions that could help improve the primary check (*i.e. a PC climbs a ladder, whilst others hold it steady*). All supporting PCs roll their proficiency die, and if any of their values are greater than the proficiency die rolled in the primary check, the PC making the primary check may choose to use the higher value instead.
 <br />
 
 $$
 d20 + MAX[Proficiency] => TN
-$$<br />
+$$
 
 ## Advantage & Disadvantage
 Certain powers, conditions, or equipment allow a PC to make a check with advantage. Others impose restrictions, causing their checks to be made with disadvantage.

@@ -17,6 +17,7 @@ Once earned, a PC can spend their inspiration to:
 - Exert their [[105 Socialising#Renown|renown]] to improve an NPC's disposition
 
 There is no limit to how much inspiration may be spent on any given action.
+
 All unspent inspiration is lost at the end of a session.
 
 > [!tip|noicon] Inspiration may also be used as an informal currency (*i.e. a PC may exchange inspiration to attempt a particularly ridiculous move, or garner intel for their current adventure*).

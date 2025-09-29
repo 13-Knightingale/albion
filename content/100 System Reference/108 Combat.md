@@ -28,6 +28,7 @@ unarmed combat = no prof dice
 RANGED ATTACK (thrown, range, hitting groups, ammo usage + improvised)
 making ranged attack into same spacE (close range disadvantage?)
 how do we use ammo, when does it deplete?
+FIRENDLY FIRE -  are reassigned to another (*random*) target within the zone (*if able*).
 ## Damage Types
 ???
 ## Conditions

@@ -1,16 +1,3 @@
-## Aasimar
-
-> [!cite|noicon] Aasimar are the descendants of angels or another 'altrusitic' celestial being. They tend to have feathered wings of their own, fair complexions and blonde hair. They are usually in athletic shape, often have pale blue eyes and may even have a visible halo. 
-
-**Abilities**: +2 Charisma, +1 Wisdom
-
-**Size**: Medium
-
-**Languages**: Common, Celestial
-
-**Powersets**: Aasimar
-
----
 ## Arborian
 
 > [!cite|noicon] Flavour Text
@@ -21,7 +8,7 @@
 
 **Languages**: Common, N'Gaia
 
-**Powersets**: Arborian
+**Powersets**: ==Arborian==
 
 ---
 ## Drakahn
@@ -34,7 +21,7 @@
 
 **Languages**: Common, Dovaki
 
-**Powersets**: Drakahn
+**Powersets**: ==Drakahn=
 
 ---
 ## Dwarf
@@ -47,7 +34,7 @@
 
 **Languages**: Common, Runic
 
-**Powersets**: Dwarf
+**Powersets**: ==Dwarf==
 
 ---
 ## Elf
@@ -60,7 +47,7 @@
 
 **Languages**: Common, Sylvarillian
 
-**Powersets**: Elf
+**Powersets**: ==Elf==
 
 ---
 ## Firbolg
@@ -73,7 +60,7 @@
 
 **Languages**: Common, N'Gaia (*Limited*), Greentongue (*Limited*)
 
-**Powersets**: Firbolg
+**Powersets**: ==Firbolg==
 
 ---
 ## Gnome
@@ -86,7 +73,7 @@
 
 **Languages**: Common, Sylvarillian (*Limited*), N'Gaia (*Limited*)
 
-**Powersets**: Gnome
+**Powersets**: ==Gnome==
 
 ---
 ## Goliath
@@ -99,7 +86,7 @@
 
 **Languages**: Common, Runic (*Limited*), Dovaki (*Limited*)
 
-**Powersets**: Goliath
+**Powersets**: ==Goliath==
 
 ---
 ## Halfling
@@ -112,7 +99,7 @@
 
 **Languages**: Common, Skiddish
 
-**Powersets**: Halfling
+**Powersets**: ==Halfling==
 
 ---
 ## Hobgoblin
@@ -125,7 +112,7 @@
 
 **Languages**: Common, Greentongue (*Limited*), Skiddish (*Limited*)
 
-**Powersets**: Hobgoblin
+**Powersets**: ==Hobgoblin==
 
 ---
 ## Human
@@ -138,7 +125,20 @@
 
 **Languages**: Common, Sylvarillian (*Limited*), Runic (*Limited*), Skiddish (*Limited*)
 
-**Powersets**: Human
+**Powersets**: ==Human==
+
+---
+## Incubus
+
+> [!cite|noicon] Flavour Text
+
+**Abilities**: +2 Intelligence, +1 Wisdom
+
+**Size**: Medium
+
+**Languages**: Common, Infernal
+
+**Powersets**: Daemon
 
 ---
 ## Myx
@@ -151,7 +151,7 @@
 
 **Languages**: Common, any other language
 
-**Powersets**: Myx
+**Powersets**: Doppelganger
 
 ---
 ## Nocturne
@@ -164,7 +164,7 @@
 
 **Languages**: Common, Dovaki (*Limited*), Infernal (*Limited*)
 
-**Powersets**: Nocturne
+**Powersets**: ==Nocturne==
 
 ---
 ## Orc
@@ -177,20 +177,20 @@
 
 **Languages**: Common, Greentongue
 
-**Powersets**: Orc
+**Powersets**: ==Orc==
 
 ---
-## Tiefling
+## Seraph
 
-> [!cite|noicon] Flavour Text
+> [!cite|noicon] Aasimar are the descendants of angels or another 'altrusitic' celestial being. They tend to have feathered wings of their own, fair complexions and blonde hair. They are usually in athletic shape, often have pale blue eyes and may even have a visible halo. 
 
-**Abilities**: +2 Intelligence, +1 Wisdom
+**Abilities**: +2 Charisma, +1 Wisdom
 
 **Size**: Medium
 
-**Languages**: Common, Infernal
+**Languages**: Common, Celestial
 
-**Powersets**: Tiefling
+**Powersets**: Planeswalker
 
 ---
 ## Warforged
@@ -203,4 +203,4 @@
 
 **Languages**: Common
 
-**Powersets**: Warforged
+**Powersets**: Automaton

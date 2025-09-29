@@ -5,7 +5,7 @@ The battlefield is a collection of abstract areas, known as zones.
 
 Each zone may contain multiple PCs (*& NPCs*), and may have interactable objects that the DM may describe as the battle progresses. Each zone will be clearly distinct, usually having a landmark (*i.e. Fireplace, Altar,* *Large Oak Tree*) to help the PCs further identify boundaries and ranges.
 
-Certain zones are connected, which represents the capability for a PC to move between them with a move action.
+Certain zones are connected, which represents the capability for a PC to travel between them with a move action.
 
 > [!warning] Not all zones connect, making traversing the battlefield of keen tactical importance.
 
@@ -56,13 +56,13 @@ The attack is made as normal, but if the PC succeeds, they may choose (*alongsid
 > [!tip] A PC may directly target the source of cover, potentially permanently destroying it.
 
 ## Concealment
-Environments and combatants may create areas of restricted vision on the battlefield (*i.e. dense forest, wall of smoke, shifting crowd).
+Environments and combatants may create areas of restricted vision on the battlefield (*i.e. dense forest, wall of smoke, shifting crowd*).
 
 A PC does not need to take any action to utilise concealment, they are automatically affected, providing they remain in the appropriate zone. The benefits a PC receives depend on the type of concealment:
 
 - **Partially Concealed** (*also known as Obscured*): All attacks (*ranged and melee*) targeting a PC in this zone will trigger ==friendly fire== on a miss, regardless of weapon (*or spell*) qualities.
 
-- **Fully Concealed** (*also known as Hidden*): NA PC in this zone cannot be directly targeted by any action (*positive or negative*). The PC cannot target anyone else until moving out of the zone (*or the concealment is removed*). (==LINE OF SIGHT==)
+- **Fully Concealed** (*also known as Hidden*): A PC in this zone cannot be directly targeted by any action (*positive or negative*). The PC cannot target anyone else until moving out of the zone (*or the concealment is removed*). (==LINE OF SIGHT==)
 
 > [!warning] Both forms of concealment may affect a PC, even if they are not directly aiming into that zone, providing the concealed zone is between the PC and their desired target.
 

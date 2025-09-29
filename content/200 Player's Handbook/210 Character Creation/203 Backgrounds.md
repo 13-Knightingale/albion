@@ -4,9 +4,9 @@
 
 **Abilities**: +2 Wisdom, +1 Constitution
 
-==**Size**: Large==
+==**Community**: Sailor, Smuggler, Pirate==
 
-==**Languages**: Common, N'Gaia==
+==**Knowledge**: Nature (Deep), Education (Wide)
 
 **Powersets**: BACKGROUND
 

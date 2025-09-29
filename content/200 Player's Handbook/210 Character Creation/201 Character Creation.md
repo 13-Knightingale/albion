@@ -8,3 +8,6 @@ Vice & Virtue list ideas
 
 ==When a PC completes their personal quest, they receive 6XP.==
 <br />
+
+
+e.g. community examples, change it (Gladiator as entertainer)

@@ -80,6 +80,8 @@ If a PC is able to communicate with an NPC in their native (*ancestral*) languag
 
 Being able to speak a language also conveys the ability to read and write in it.
 
+limited language understanding TN table?
+
 ## Knowledge
 Throughout their lives, a PC absorbs a collection of facts, fiction, timelines and trivia. 
 To represent this, each PC has a list of knowledge topics that they have a particular interest or understanding of. This list is made up of universal general knowledge, along with specific topics the PC may have been exposed to based on their ancestry, background, or class.

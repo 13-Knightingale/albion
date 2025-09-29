@@ -64,7 +64,7 @@
 
 **Abilities**: +2 Charisma, +1 Strength
 
-**Vitality**: 18 Health, 12 Energy, 0 Mana
+**Vitality**: 15 Health, 15 Energy, 0 Mana
 
 **Initiative**: d6 (*rank 2*)
 
