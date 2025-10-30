@@ -6,11 +6,13 @@ PCs (*& NPCs*) are classified into one of several size bands. These sizes affect
 Carry Capacity: 2
 Partial Cover provides the benefit of Full Cover.
 No Cover provides the benefit of Partial Cover.
+CANNOT WIELD TWO HANDED WEAPONS????
 
 **SMALL** *1.0-1.5m (4ft), 30-40kg*
 
 Carry Capacity: 4
 Partial Cover provides the benefits of Full Cover.
+VERSATILE WEAPONS ARE TWO HANDED
 
 **MEDIUM** *1.5-2.0m (6ft), 60-75kg*
 
@@ -20,12 +22,14 @@ Carry Capacity: 6
 
 Carry Capacity: 8
 Partial Cover provides no benefit.
+VERSATILE WEAPONS ARE ONE HANDED
 
 **HUGE** *2.5-3.0m (10ft), 150-175kg*
 
 Carry Capacity: 10
 Partial Cover provides no benefit.
 Full Cover only provides the benefit of Partial Cover.
+TWO HANDED WEAPONS ARE ONE HANDED????
 
 For NPCs that fall outside the bands above, they are grouped as follows: 
 

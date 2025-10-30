@@ -6,7 +6,7 @@
 
 **Size**: Large
 
-**Languages**: Common, N'Gaia
+**Languages**: Common 3 (*Fluent*), N'Gaia 3 (*Fluent*)
 
 **Powersets**: ==Arborian==
 
@@ -19,9 +19,9 @@
 
 **Size**: Large
 
-**Languages**: Common, Dovaki
+**Languages**: Common 3 (*Fluent*), Dovaki 3 (*Fluent*)
 
-**Powersets**: ==Drakahn=
+**Powersets**: ==Drakahn==
 
 ---
 ## Dwarf
@@ -32,7 +32,7 @@
 
 **Size**: Small
 
-**Languages**: Common, Runic
+**Languages**: Common 3 (*Fluent*), Runic 3 (*Fluent*)
 
 **Powersets**: ==Dwarf==
 
@@ -45,7 +45,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, Sylvarillian
+**Languages**: Common 3 (*Fluent*), Sylvarillian 3 (*Fluent*)
 
 **Powersets**: ==Elf==
 
@@ -58,7 +58,7 @@
 
 **Size**: Small or Medium
 
-**Languages**: Common, N'Gaia (*Limited*), Greentongue (*Limited*)
+**Languages**: Common 3 (*Fluent*), N'Gaia 2 (*Confident*), Greentongue 1 (*Limited*)
 
 **Powersets**: ==Firbolg==
 
@@ -71,7 +71,7 @@
 
 **Size**: Small
 
-**Languages**: Common, Sylvarillian (*Limited*), N'Gaia (*Limited*)
+**Languages**: Common 3 (*Fluent*), Sylvarillian 2 (*Confident*), N'Gaia 1 (*Limited*)
 
 **Powersets**: ==Gnome==
 
@@ -84,7 +84,7 @@
 
 **Size**: Large
 
-**Languages**: Common, Runic (*Limited*), Dovaki (*Limited*)
+**Languages**: Common 3 (*Fluent*), Runic 2 (*Confident*), Dovaki 1 (*Limited*)
 
 **Powersets**: ==Goliath==
 
@@ -97,7 +97,7 @@
 
 **Size**: Small
 
-**Languages**: Common, Skiddish
+**Languages**: Common 3 (*Fluent*), Skiddish 3 (*Fluent*)
 
 **Powersets**: ==Halfling==
 
@@ -110,7 +110,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, Greentongue (*Limited*), Skiddish (*Limited*)
+**Languages**: Common 3 (*Fluent*), Greentongue 2 (*Confident*), Skiddish 1 (*Limited*)
 
 **Powersets**: ==Hobgoblin==
 
@@ -123,7 +123,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, Sylvarillian (*Limited*), Runic (*Limited*), Skiddish (*Limited*)
+**Languages**: Common 3 (*Fluent*), Skiddish 2 (*Confident*), Runic 1 (*Limited*)
 
 **Powersets**: ==Human==
 
@@ -136,7 +136,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, Infernal
+**Languages**: Common 3 (*Fluent*), Infernal 3 (*Fluent*)
 
 **Powersets**: Daemon
 
@@ -149,7 +149,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, any other language
+**Languages**: Common 3 (*Fluent*), three other languages (*Limited*)
 
 **Powersets**: Doppelganger
 
@@ -162,7 +162,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, Dovaki (*Limited*), Infernal (*Limited*)
+**Languages**: Common 3 (*Fluent*), Dovaki 2 (*Confident*), Sylvarillian 1 (*Limited*)
 
 **Powersets**: ==Nocturne==
 
@@ -175,7 +175,7 @@
 
 **Size**: Medium or Large
 
-**Languages**: Common, Greentongue
+**Languages**: Common 3 (*Fluent*), Greentongue 3 (*Fluent*)
 
 **Powersets**: ==Orc==
 
@@ -188,7 +188,7 @@
 
 **Size**: Medium
 
-**Languages**: Common, Celestial
+**Languages**: Common 3 (*Fluent*), Celestial 3 (*Fluent*)
 
 **Powersets**: Planeswalker
 
@@ -201,6 +201,6 @@
 
 **Size**: Small, Medium or Large
 
-**Languages**: Common
+**Languages**: Common 3 (*Fluent*)
 
 **Powersets**: Automaton

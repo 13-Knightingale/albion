@@ -24,7 +24,7 @@ Once a PC has gathered the necessary [[107 Downtime#Supplies|supplies]] and [[10
 - **Guidance**: If the crafting is done under the supervision of an expert, or by following explicit instructions, increase the crafting die rank by one.
 - **Equipment**: If the crafting is performed in a dedicated venue, or the PC has access to purpose made tools, increase the crafting die rank by one.
 - **Safety**: If the crafting does not pose a risk to the PC (*i.e. is unlikely to harm them in the event of a mistake*), increase the crafting die rank by one.
-- **Support**: If other PCs (*or NPCs*) are available to help, increase the crafting die rank by one.
+- **Assistance**: If other PCs (*or NPCs*) are available to help, increase the crafting die rank by one.
 
 Supplies and key ingredients are consumed each time a PC attempts a crafting check.
 

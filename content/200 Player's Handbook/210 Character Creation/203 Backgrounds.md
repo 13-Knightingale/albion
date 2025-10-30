@@ -1,13 +1,26 @@
+## Academic
+
+> [!cite|noicon] Flavour Text
+
+**Abilities**: +2 Wisdom, +1 Intelligence
+
+**Community**: Librarian, Scholar or Teacher
+
+**Knowledge**: ??? X (*Expert*), ??? X (*Advanced*), ??? X (*Basic*)
+
+**Powersets**: Bookworm
+
+---
 ## NAME
 
 > [!cite|noicon] Flavour Text
 
-**Abilities**: +2 Wisdom, +1 Constitution
+**Abilities**: +2 ???, +1 ???
 
-==**Community**: Sailor, Smuggler, Pirate==
+**Community**: ???, ??? or ???
 
-==**Knowledge**: Nature (Deep), Education (Wide)
+**Knowledge**: ??? X (*Expert*), ??? X (*Advanced*), ??? X (*Basic*)
 
-**Powersets**: BACKGROUND
+**Powersets**: ==???==
 
 ---

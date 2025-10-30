@@ -11,3 +11,6 @@ Vice & Virtue list ideas
 
 
 e.g. community examples, change it (Gladiator as entertainer)
+
+
+ALL START WITH 1 RENOWN?

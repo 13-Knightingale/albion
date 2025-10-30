@@ -1,7 +1,7 @@
 ## Abilities
 The most common form of check rolled during a session with be an ability check. When the PC takes an action requiring a check, and there is no specific proficiency that covers that action (*i.e. the weapon die for making attacks, the crafting die for brewing potions*), then the DM will call for an ability check instead. The choice of which ability to use will be based on the action taken.
 
-> [!tip] The DM may deem that certain outcomes (*for an action*) can be achieved in multiple ways (*i.e. you could win a debate with Wisdom, rather than Charisma, or potentially Constitution, if the conversation takes a particularly long time*). In these cases, the DM should discuss with the PC their options and prefered approach.
+> [!tip] The DM may deem that certain outcomes (*for an action*) can be achieved in multiple ways (*i.e. you could win a debate with Wisdom, rather than Charisma, or potentially Constitution, if the conversation takes a particularly long time*). In these cases, the DM should discuss with the PC their options and preferred approach.
 
 There are six characteristics that represent the physical and mental aptitude of a PC.
 These abilities indicate the skill and training a PC may call upon throughout their adventures:
@@ -19,7 +19,7 @@ These abilities indicate the skill and training a PC may call upon throughout th
 <br/>
 - **Charisma** represents a PC's suaveness and tact. How freely they find conversations, and how comfortable others find their company. It can indicate their talent at mediation or manipulation, and is often helped by having an attractive complexion.
 
-Abilities are represented by [[003 Basic Concepts#Dice Ranks|dice ranks]] (*i.e. a PC with a Strength of 3 rolls a d8*). 
+Abilities are a form of proficiency, hence, they are represented by [[003 Basic Concepts#Dice Ranks|dice ranks]] (*i.e. a PC with a Strength of 3 rolls a d8*). 
 ## Defences
 
 In almost all cases, every action made against an NPC will utilise one of their defences as the [[101 D20 Mechanics#Target Number (TN)|target number]] for that check. Likewise, the PC's defences will be used whenever a NPC takes an action that targets them. Most 'offensive' actions (*i.e. attacking with sword, casting a spell*) explicitly denote which defence value is to be used, elsewise, the DM will decide.
@@ -42,4 +42,4 @@ These defences determine how much a PC can naturally avoid, withstand or detect:
 <br/>
 - **Presence** allows a PC to stand tall, figuratively and literally, in social situations. It grants them an aura of authority, reassuring allies whilst unnerving opponents, and a conviction of personality, making any attempt to sway their ideals a daunting challenge.
 
-Defences are a static, numerical value.
+Defences are a static, numerical value, allowing them to be used as a TN when required.

@@ -1,7 +1,7 @@
 ---
 enableToc: false
 ---
-> [!summary|noicon] In order to maintain consistency throughout this document, the term 'Dungeon Master' will be abbreviated to *DM*, players and their characters will be jointly referenced as *PC*s, and any other role, monster or independent agent will be referred to as an *NPC*.
+> [!example|noicon] In order to maintain consistency throughout this document, the term 'Dungeon Master' will be abbreviated to *DM*, players and their characters will be jointly referenced as *PC*s, and any other role, monster or independent agent will be referred to as an *NPC*.
 #### Specific Over Generic
 In all cases, if an individual power, item, spell or similar trigger describes an effect that contradicts the core rules of this system, that exception always takes precedence.
 #### Always Round Down

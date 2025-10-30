@@ -51,3 +51,4 @@ There are three 'ranges' for weapons, spells, abilities, etc.:
 - Long: Any zone within line of sight. Bows.
 
 Line of Sight
+]TWO TYPES OF COVER (soft and hard seperate) - waepon quality to ifnore soft

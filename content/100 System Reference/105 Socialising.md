@@ -64,6 +64,8 @@ $$
 (d20 + Proficiency) + Disposition => TN
 $$
 
+IF FAIL/WANT TO CONVINCE... use CHA vs PRE ability check (tip?)
+
 ## Language
 In order to communicate, those involved in the conversation must speak the same language. If a PC does not speak the same language as an NPC, they will not comprehend anything being discussed, although they may be able to interpret intent through other means.
 
@@ -81,6 +83,7 @@ If a PC is able to communicate with an NPC in their native (*ancestral*) languag
 Being able to speak a language also conveys the ability to read and write in it.
 
 limited language understanding TN table?
+DISADV on limited (Basic), normal on Familiar (Advanced), ADV on Fluent (Expert) requests
 
 ## Knowledge
 Throughout their lives, a PC absorbs a collection of facts, fiction, timelines and trivia. 
@@ -98,3 +101,10 @@ All PCs (*& NPCs*) have a shared set of knowledge, representing a collective awa
 > [!tip|noicon] This list of general knowledge topics is not exclusive. Other topics may be added by the DM if they feel it is something most NPCs in their world would know.
 
 COMMUNITIES!
+
+extra monster knowledge
+identification poison etc
+puzzle clues
+temp know;edge research dpwntimr
+SHARED KNOWLEDGE (in party unlocks crafting for everyone)
+COMBINED KNOWLEDGE (add levels together, i.e. NAture 1 + NAture 2 to act as Nature 3), requires a check?

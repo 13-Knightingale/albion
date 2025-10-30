@@ -4,13 +4,11 @@
 
 **Abilities**: +2 Wisdom, +1 Strength
 
-**Vitality**: 9 Health, 9 Energy, 0 Mana
-
-**Initiative**: d12 (*rank 5*)
+**Vitality**: 9 HP, 9 AP, 9 MP
 
 **Spellcasting**: d4 (*rank 1*)
 
-**Powersets**: Divine, Hexblade, POWERSET, Slayer, Cage Fighter, Gunslinger, Assassin
+**Powersets**: Divine, Slayer, Inquisitor, ==AGT/WAR==, Pugilist, Gunslinger, Espionage
 
 ---
 ## Artificer
@@ -19,13 +17,11 @@
 
 **Abilities**: +1 for any three abilities
 
-**Vitality**: 9 Health, 6 Energy, 9 Mana
+**Vitality**: 9 HP, 6 AP, 12 MP
 
-**Initiative**: d6 (*rank 2*)
+**Spellcasting**: d4 (*rank 1*)
 
-**Spellcasting**: d6 (*rank 2*)
-
-**Powersets**: Arcane, Runecraft, Alchemist, POWERSET, POWERSET, Battle Smith, Dungeoneer
+**Powersets**: Arcane, Conjuror, Alchemist, ==ART/WIZ==, ==ART/COM==, Battle Smith, Dungeoneer
 
 ---
 ## Barbarian
@@ -34,13 +30,11 @@
 
 **Abilities**: +2 Constitution, +1 Charisma
 
-**Vitality**: 10 Health, 10 Energy, 4 Mana
+**Vitality**: 10 HP, 10 AP, 4 MP
 
-**Initiative**: d6 (*rank 2*)
+**Spellcasting**: d6 (*rank 2*)
 
-**Spellcasting**: d8 (*rank 3*)
-
-**Powersets**: Primal, POWERSET, Animal Spirits, Hunter, POWERSET, Berserker, Cage Fighter
+**Powersets**: Primal, ==BAR/GRD==, Ancestral Spirit, Hunter, Pugilist, Berserker, ==BAR/SOR==
 
 ---
 ## Cleric
@@ -49,13 +43,11 @@
 
 **Abilities**: +2 Charisma, +1 Wisdom
 
-**Vitality**: 7 Health, 7 Energy, 7 Mana
-
-**Initiative**: d6 (*rank 2*)
+**Vitality**: 7 HP, 7 AP, 7 MP
 
 **Spellcasting**: d8 (*rank 3*)
 
-**Powersets**: Divine, War Priest, Blessings, Curses, POWERSET, Healing Words, POWERSET
+**Powersets**: Divine, War Priest, Disciple, ==CLC/WAR==, ==CLC/COM==, ==CLC/LDR==, Field Medic
 
 ---
 ## Commander
@@ -64,13 +56,11 @@
 
 **Abilities**: +2 Charisma, +1 Strength
 
-**Vitality**: 15 Health, 15 Energy, 0 Mana
-
-**Initiative**: d6 (*rank 2*)
+**Vitality**: 15 HP, 15 AP, 0 MP
 
 **Spellcasting**: - (*rank 0*)
 
-**Powersets**: Martial, POWERSET, Warlord, Battlemaster, POWERSET, POWERSET, POWERSET
+**Powersets**: Martial, Battlemaster, Warlord, Mastermind, ==ART/COM==, Tactician, ==CLC/COM==
 
 ---
 ## Druid
@@ -79,13 +69,11 @@
 
 **Abilities**: +2 Constitution, +1 Intelligence
 
-**Vitality**: 6 Health, 4 Energy, 8 Mana
-
-**Initiative**: d6 (*rank 2*)
+**Vitality**: 8 HP, 2 AP, 8 MP
 
 **Spellcasting**: d10 (*rank 4*)
 
-**Powersets**: Primal, Beast Master, Wild Shape, Shaman, POWERSET, Storm Herald, Element Bending
+**Powersets**: Primal, Shaman, Wild Shape, Beast Master, Elementalist, Storm Herald, Sage
 
 ---
 ## Fighter
@@ -94,13 +82,11 @@
 
 **Abilities**: +2 Strength, +1 Dexterity
 
-**Vitality**: 15 Health, 12 Energy, 0 Mana
-
-**Initiative**: d8 (*rank 3*)
+**Vitality**: 18 HP, 12 AP, 0 MP
 
 **Spellcasting**: - (*rank 0*)
 
-**Powersets**: Martial, Battlemaster, Weapon Master, Samurai, POWERSET, Sentinel, Shield Master
+**Powersets**: Martial, Battlemaster, ==FIG/MAR==, Samurai, ==Focus==, ==FIG/DEF==, Warden
 
 ---
 ## Guardian
@@ -109,13 +95,11 @@
 
 **Abilities**: +2 Constitution or Wisdom, +1 for the other
 
-**Vitality**: 10 Health, 4 Energy, 7 Mana
+**Vitality**: 13 HP, 4 AP, 4 MP
 
-**Initiative**: d4 (*rank 1*)
+**Spellcasting**: d8 (*rank 3*)
 
-**Spellcasting**: d10 (*rank 4*)
-
-**Powersets**: Primal, Shaman, POWERSET, POWERSET, Bulwark, POWERSET, POWERSET
+**Powersets**: Primal, ==BAR/GRD==, ==Natural Resistance==, Shaman, ==PSI/GRD==, ==Organic Constructs==, Sentinel
 
 ---
 ## Monk
@@ -124,13 +108,11 @@
 
 **Abilities**: +2 Dexterity, +1 Constitution
 
-**Vitality**: 12 Health, 12 Energy, 0 Mana
-
-**Initiative**: d10 (*rank 4*)
+**Vitality**: 16 HP, 14 AP, 0 MP
 
 **Spellcasting**: - (*rank 0*)
 
-**Powersets**: Martial, Samurai, Unarmed Strike, Ninjitsu, Element Bending, Pressure Point, POWERSET
+**Powersets**: Martial, Samurai, Martial Arts, Ninjitsu, Elementalist, ==MNK/CON==, ==MNK/WAR==
 
 ---
 ## Paladin
@@ -139,13 +121,11 @@
 
 **Abilities**: +2 Strength, +1 Constitution
 
-**Vitality**: 12 Health, 6 Energy, 3 Mana
-
-**Initiative**: d8 (*rank 3*)
+**Vitality**: 12 HP, 6 AP, 6 MP
 
 **Spellcasting**: d6 (*rank 2*)
 
-**Powersets**: Divine, Slayer, Templar, War Priest, Shield Master, POWERSET, Bulwark
+**Powersets**: Divine, Slayer, Templar, War Priest, Warden, ==PLD/DEF==, Sentinel
 
 ---
 ## Psion
@@ -154,13 +134,11 @@
 
 **Abilities**: +2 Intelligence, +1 Wisdom
 
-**Vitality**: 6 Health, 3 Energy, 6 Mana
+**Vitality**: 9 HP, 5 AP, 10 MP
 
-**Initiative**: d10 (*rank 4*)
+**Spellcasting**: d6 (*rank 2*)
 
-**Spellcasting**: d8 (*rank 3*)
-
-**Powersets**: Arcane, POWERSET, POWERSET, POWERSET, POWERSET, POWERSET, POWERSET
+**Powersets**: Arcane, ==PSI/WIZ==, Telekinesis, ==PSI/SOR==, ==Focus==, Oracle, ==PSI/GRD==
 
 ---
 ## Ranger
@@ -169,13 +147,11 @@
 
 **Abilities**: +2 Strength or Intelligence, +1 for the other
 
-**Vitality**: 8 Health, 8 Energy, 5 Mana
-
-**Initiative**: d10 (*rank 4*)
+**Vitality**: 12 HP, 12 AP, 3 MP
 
 **Spellcasting**: d4 (*rank 1*)
 
-**Powersets**: Primal, Hunter, POWERSET, Beast Master, Dungeoneer, Scout, POWERSET
+**Powersets**: Primal, Hunter, Archery, Beast Master, Dungeoneer, Scout, Field Medic
 
 ---
 ## Rogue
@@ -184,13 +160,11 @@
 
 **Abilities**: +2 Dexterity, +1 Intelligence
 
-**Vitality**: 9 Health, 12 Energy, 0 Mana
-
-**Initiative**: d12 (*rank 5*)
+**Vitality**: 12 HP, 18 AP, 0 MP
 
 **Spellcasting**: - (*rank 0*)
 
-**Powersets**: Martial, Ninjitsu, Thief, POWERSET, Assassin, POWERSET, POWERSET
+**Powersets**: Martial, Mastermind, Thief, Ninjitsu, Espionage, Assassin, ==ROG/SOR==
 
 ---
 ## Sorcerer
@@ -199,13 +173,11 @@
 
 **Abilities**: +2 Intelligence, +1 Charisma
 
-**Vitality**: 6 Health, 0 Energy, 9 Mana
+**Vitality**: 8 HP, 0 AP, 13 MP
 
-**Initiative**: d8 (*rank 3*)
+**Spellcasting**: d8 (*rank 3*)
 
-**Spellcasting**: d10 (*rank 4*)
-
-**Powersets**: Arcane, POWERSET, Wild Magic, POWERSET, POWERSET, POWERSET, POWERSET
+**Powersets**: Arcane, ==PSI/SOR==, Wild Magic, Conjuror, ==ROG/SOR==, ==SOR/STR==, ==BAR/SOR==
 
 ---
 ## Warlock
@@ -214,13 +186,11 @@
 
 **Abilities**: +2 Dexterity or Charisma, +1 for the other
 
-**Vitality**: 7 Health, 0 Energy, 5 Mana
-
-**Initiative**: d10 (*rank 4*)
+**Vitality**: 8 HP, 5 AP, 5 MP
 
 **Spellcasting**: d10 (*rank 4*)
 
-**Powersets**: Divine, Curses, Pact Magic, Hexblade, POWERSET, Possession, Witchcraft
+**Powersets**: Divine, ==AGT/WAR==, Pact Magic, ==CLC/WAR==, ==MNK/WAR==, Soul Walker, Witchcraft
 
 ---
 ## Wizard
@@ -229,10 +199,8 @@
 
 **Abilities**: +2 Wisdom, +1 Dexterity
 
-**Vitality**: 6 Health, 0 Energy, 12 Mana
+**Vitality**: 6 HP, 0 AP, 12 MP
 
-**Initiative**: d4 (*rank 1*)
+**Spellcasting**: d10 (*rank 4*)
 
-**Spellcasting**: d12 (*rank 5*)
-
-**Powersets**: Arcane, POWERSET, Magus, Runecraft, Witchcraft, POWERSET, POWERSET
+**Powersets**: Arcane, ==ART/WIZ==, ==WIZ/ARC==, ==PSI/WIZ==, Sage, ==WIZ/CON==, Witchcraft
