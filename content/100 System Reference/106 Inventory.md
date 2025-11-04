@@ -46,8 +46,9 @@ It is possible a PC to purchase (*or craft*) customisations for their backpack. 
 
 >[!warning|noicon] In some encounters, an NPC may sunder (*destroy*) items. This is done at random, but items sharing the same slot will all be destroyed if that slot is chosen.
 
+GENERAL ITEMS SECTION>>>>>>>>>>>>>>>>>
 ## Equipping Gear
-A PC my also equip gear (*carry it on their person, not in their backpack*), what may be feasibly worn simultaneously is subject to DM discretion (*i.e. a single hat,  ten rings*).
+A PC my also equip gear (*carry it on their person, not in their backpack*), what may be feasibly worn simultaneously is subject to DM discretion (*i.e. a single hat, ten rings*).
 
 A PC may also carry two one handed weapons or a single double handed weapon. When making an attack, a PC may only use weapons they have equipped (*swapping a weapon with another in a PC's backpack requires a minor action*).
 
